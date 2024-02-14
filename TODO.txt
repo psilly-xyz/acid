@@ -1,0 +1,2 @@
+Use shadcn + tailwindcss
+Link backend documentation to this repository
